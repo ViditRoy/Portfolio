@@ -1,9 +1,9 @@
    * {
-       box-sizing: border-box;
+       
    }
 
    body {
-       background-color: rgb(84 60 98 / 81%);
+       background-color: rgb(146 128 156 / 81%);
    }
 
    .Main {
@@ -20,6 +20,7 @@
    }
 
    .Social {
+       border: solid;
        padding: 10px;
-       margin-right: 900px;
+       
    }
